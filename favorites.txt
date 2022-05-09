@@ -1,3 +1,8 @@
+FOODS
 pizza
 chicken
 tulumba
+MOVIES
+Rising of The Shild Hero
+Attack on Titan
+Love is War
